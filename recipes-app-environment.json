@@ -1,0 +1,19 @@
+{
+  "id": "recipes-app-env",
+  "name": "Recipes App Environment",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5000/api",
+      "enabled": true
+    },
+    {
+      "key": "jwtToken",
+      "value": "",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2025-10-01T12:00:00Z",
+  "_postman_exported_using": "ChatGPT"
+}
